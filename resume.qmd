@@ -1,91 +1,110 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Allison Grunig's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Business Analytics Student, BYU-Idaho
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-<!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+<a href="allygrunig@gmail.com">allygrunig@gmail.com</a>
+| <a href="https://www.linkedin.com/in/allison-grunig">LinkedIn</a>
+| (208) 854-9960
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior at Brigham Young University–Idaho pursuing a degree in Business Analytics with a strong focus on data visualization, analytics, and business intelligence tools.
+
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data analytics, dashboards, SQL, Excel, Python, R, Power BI, Tableau, teamwork, problem-solving
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Data visualization, business intelligence, analytics-driven decision making, system optimization
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Expected December 2026`  
+__Brigham Young University–Idaho__, Rexburg, ID  
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+- Bachelor of Science in Business Analytics  
+- GPA: 4.0  
+- BYU-Idaho Academic Scholarship  
+- Advanced understanding of Power BI, Tableau, SQL, Excel, Python, and R  
+- Member of Women in Business Society and Supply Chain Management Society  
 
 
+## Experience
 
-## Awards
+`June 2025 - Present`  
+__System Support Administrator__, BYU-Pathways  
 
-`2012`
-President, *Royal Society*, London, UK
+- Learned and used data systems to provide licenses to employees worldwide  
+- Created dashboards in Wrike to present data from system error requests  
+- Collaborated with team members to solve technical issues and support employees  
 
-Associate, *French Academy of Science*, Paris, France
 
+`February 2025 – June 2025`  
+__Closed Captioning Specialist__, BYU-Idaho  
+
+- Utilized databases to provide captioning services for Accessibility Services  
+- Maintained strict captioning standards and accuracy  
+
+
+`September 2024 – January 2025`  
+__Package Handler__, FedEx (Boise, ID)  
+
+- Managed shipment tracking and ensured efficient package processing  
+- Operated equipment such as hydraulic conveyor belts  
+- Maintained safety and efficiency in a fast-paced environment  
+
+
+`March 2023 – August 2024`  
+__Full-Time Volunteer Representative__, The Church of Jesus Christ of Latter-day Saints (Southwest UK)  
+
+- Supported local congregations and community outreach programs  
+- Adapted to new cultures and environments while working abroad  
+- Led and mentored teams, providing weekly training  
+- Collaborated with local leaders and organizations  
+- Developed customized materials to meet local needs  
+
+
+`April 2021 - March 2023`  
+__Front Desk Receptionist__, Tomlinson South Meridian YMCA (Meridian, ID)  
+
+- Worked in a team-focused environment providing customer support  
+- Handled phone communication and in-person inquiries  
+- Processed transactions (cash, credit, check)  
+- Communicated policies clearly to members  
+- Responded to emergencies and provided assistance  
+
+
+## Leadership, Skills, & Awards
+
+- BYU-Idaho Academic Scholarship  
+- National Honors Society Officer  
+- Associate Degree earned in high school  
+- Strong skills in Microsoft Office, SQL, Python, R, Tableau, and Power BI  
+- Experience with data systems and dashboard creation  
+- World traveler with international experience (UK)  
+- Cross Country and Volleyball athlete  
+- Member of Women in Business Society and Supply Chain Management Society  
 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+### Projects
 
-### Journals
+`2025-2026`  
+Data analytics dashboards and projects using SQL, Python, R, and visualization tools (Power BI, Tableau)
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
